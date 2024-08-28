@@ -48,9 +48,9 @@ This is a classic Snake game implemented in Java using the Swing library. The ga
 - **Objective:** Eat the red apples to grow in length and score points.
 - **Game Over:** The game ends when the snake collides with the walls or its own body. The final score will be displayed.
 
-## Screenshots
+## Demo
 
-_Add screenshots here to showcase the game in action._
+ https://github.com/user-attachments/assets/d5821981-86bf-4b39-b467-7f004d252c67
 
 ## Technologies Used
 
